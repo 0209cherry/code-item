@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shida.png</file>
+    </qresource>
+</RCC>
